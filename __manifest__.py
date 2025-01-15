@@ -1,6 +1,6 @@
 {
     'name': 'stesi_fleet_documents',
-    'version': '17',
+    'version': '17.0',
     'author': "Luca Cocozza",
     'application': True,
     'description': "Aggironamento stesi fleet document.",
