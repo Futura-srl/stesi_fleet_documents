@@ -8,4 +8,7 @@
     'data': [
         # # Caricamento delle view,
     ],
+    'external_dependencies': {
+        'python': ['python-docx', 'docx2pdf', 'pdfkit', 'pydocx'],
+    },
 }
